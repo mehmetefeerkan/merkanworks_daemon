@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/mehmetefeerkan/merkanworks_daemon#readme",
     "dependencies": {
+        "express": "^4.17.2",
         "systeminformation": "^5.10.2"
     }
 }
