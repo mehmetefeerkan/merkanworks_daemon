@@ -1,5 +1,6 @@
 -- Resource Metadata
 fx_version 'cerulean'
+games { 'gta5' }
 
 author 'ephesus'
 description 'MerkanWorks Server Management Panel Daemon for FXServer'
