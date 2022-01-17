@@ -1,6 +1,7 @@
 console.log("hello world!")
 console.log(GetConvar("sv_licenseKeyToken"))
 const si = require('systeminformation')
+const axios = require('axios')
 let cpuData = {}
 
 setInterval(() => {
