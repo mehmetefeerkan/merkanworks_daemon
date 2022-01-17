@@ -1,0 +1,23 @@
+{
+    "name": "daemon",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mehmetefeerkan/merkanworks_daemon.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mehmetefeerkan/merkanworks_daemon/issues"
+    },
+    "homepage": "https://github.com/mehmetefeerkan/merkanworks_daemon#readme",
+    "dependencies": {
+        "systeminformation": "^5.10.2"
+    }
+}
