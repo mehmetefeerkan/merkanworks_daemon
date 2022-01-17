@@ -19,6 +19,7 @@
     "homepage": "https://github.com/mehmetefeerkan/merkanworks_daemon#readme",
     "dependencies": {
         "axios": "^0.24.0",
+        "crypto-js": "^4.1.1",
         "express": "^4.17.2",
         "systeminformation": "^5.10.2"
     }
